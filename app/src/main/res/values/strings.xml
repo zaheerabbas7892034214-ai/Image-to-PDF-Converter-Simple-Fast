@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image to PDF Converter</string>
+    
+    <!-- Home Screen -->
+    <string name="select_images">Select Images</string>
+    <string name="no_images_selected">No images selected</string>
+    <string name="images_selected">%d image(s) selected</string>
+    <string name="generate_pdf">Generate PDF</string>
+    <string name="settings">PDF Settings</string>
+    
+    <!-- Settings -->
+    <string name="page_size">Page Size</string>
+    <string name="margins">Margins</string>
+    <string name="quality">Quality</string>
+    <string name="quality_low">Low</string>
+    <string name="quality_medium">Medium</string>
+    <string name="quality_high">High (Pro)</string>
+    
+    <!-- Preview Screen -->
+    <string name="preview_images">Preview Images</string>
+    <string name="reorder_hint">Drag to reorder images</string>
+    <string name="rotate">Rotate</string>
+    <string name="remove">Remove</string>
+    <string name="continue_to_generate">Continue</string>
+    
+    <!-- Result Screen -->
+    <string name="pdf_generated">PDF Generated Successfully!</string>
+    <string name="file_name">File Name</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="share_pdf">Share PDF</string>
+    <string name="pdf_saved">PDF saved successfully</string>
+    
+    <!-- Pro Screen -->
+    <string name="unlock_pro">Unlock Pro Features</string>
+    <string name="restore_purchases">Restore Purchases</string>
+    <string name="pro_active">Pro Active ✓</string>
+    <string name="pro_features">Pro Features:</string>
+    <string name="unlimited_images">• Unlimited images per PDF</string>
+    <string name="no_watermark">• No watermark</string>
+    <string name="high_quality">• High resolution export</string>
+    <string name="batch_creation">• Batch PDF creation</string>
+    
+    <!-- Messages -->
+    <string name="max_images_free">Free version limited to 10 images</string>
+    <string name="watermark_applied">Watermark applied (Pro removes it)</string>
+    <string name="high_quality_pro">High quality requires Pro</string>
+    <string name="purchase_failed">Purchase failed</string>
+    <string name="purchase_success">Pro unlocked successfully!</string>
+    <string name="restored_purchases">Purchases restored</string>
+    <string name="no_purchases_found">No purchases found to restore</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="preview">Preview</string>
+    <string name="result">Result</string>
+    <string name="pro">Pro</string>
+</resources>
